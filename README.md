@@ -9,10 +9,12 @@ This repository serves as a comprehensive resource for understanding the impleme
 
 To run the code in the provided repository, follow these steps:
 
-1. Start by compiling the Initial.py file. This will generate a text file named coordinates.txt containing a list of coordinates.
+1. Clone EEcode folder on your computer.
 
-2. Once the coordinates.txt file is generated, you can run the Rosenbrock.py, Sphere.py, and Booth.py files. These files will perform the optimization algorithms on their respective functions and calculate the average compilation time for each algorithm.
+2. Start by compiling the Initial.py file. This will generate a text file named coordinates.txt containing a list of coordinates.
 
-3. Additionally, there is a design.py file that provides a visualization of the Newton's and BFGS algorithms on the Sphere function. However, note that the code for the Newton algorithm is currently commented out. If you want to visualize the Newton algorithm, uncomment that section and comment out the BFGS algorithm section.
+3. Once the coordinates.txt file is generated, you can run the Rosenbrock.py, Sphere.py, and Booth.py files. These files will perform the optimization algorithms on their respective functions and calculate the average compilation time for each algorithm.
+
+4. Additionally, there is a design.py file that provides a visualization of the Newton's and BFGS algorithms on the Sphere function. However, note that the code for the Newton algorithm is currently commented out. If you want to visualize the Newton algorithm, uncomment that section and comment out the BFGS algorithm section.
 
 By following these instructions, you should be able to execute the code and observe the results and visualizations.
